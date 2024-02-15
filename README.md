@@ -1,3 +1,4 @@
 # demo-repo
-This is my first remo
-Authour-- Rubel
+This is my first repository
+<br/>
+Authour - Md Rubel
